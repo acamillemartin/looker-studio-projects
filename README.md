@@ -38,4 +38,4 @@ Provide a single view to track effort, efficiency, and outcomes across sales rep
 - Certain cities produce higher revenue per lead.
 
 ### Live Dashboard
-!https://lookerstudio.google.com/reporting/7305a389-8de8-4e26-b56c-6f1d4c353174
+https://lookerstudio.google.com/reporting/7305a389-8de8-4e26-b56c-6f1d4c353174
