@@ -30,7 +30,7 @@ Provide a single view to track effort, efficiency, and outcomes across sales rep
 - Are trends improving over time?
 
 ### Dashboard Preview
-![Dashboard](dashboard/sales_team_performance.jpg)
+![Dashboard](dashboards/sales_team_performance.jpg)
 
 ### Insights Example
 - Top performers contribute a large share of revenue.
